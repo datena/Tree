@@ -1,0 +1,22 @@
+{
+  "name": "phprookiehbb/tree",
+  "description": "tree类,使用递归生成树形数据,简单实用,可以查找子类,父类以及生成树",
+  "authors": [
+    {
+      "name": "crasphb",
+       "email": "646054215@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev": {
+        "php": ">=5.4.0"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Crasphb\\": "src/"
+    }
+  }
+}
